@@ -1,0 +1,8 @@
+name: ExampleProject
+version: '${project.version}'
+main: exampleproject.exampleproject.ExampleProject
+api-version: 1.18
+commands:
+  diamonds:
+    description: Get a random number of diamonds
+    usage: /<command>
